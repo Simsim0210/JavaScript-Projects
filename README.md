@@ -18,9 +18,8 @@ Completed JavaScript assignments to practise programming concepts and develop my
 
 Created a personal portfolio website using HTML, CSS, and JavaScript to showcase my learning, projects, and technical skills.
 
-Live Website: View My Portfolio
-
-Portfolio Repository: View Portfolio on GitHub
+**Live Website:** [View My Portfolio](https://Simsim0210.github.io/Portfolio/)
+**Portfolio Repository:** [View Portfolio on GitHub](https://github.com/Simsim0210/Portfolio)
 
 Technologies and Tools
 
